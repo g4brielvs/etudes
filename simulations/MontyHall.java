@@ -1,13 +1,13 @@
 /******************************************************************************
- *  Compilation:  javac MonteHall.java
- *  Execution:    java MonteHall N
+ *  Compilation:  javac MontyHall.java
+ *  Execution:    java MontyHall N
  *
- *  Plays the Monte Hall game N times with the switching strategy
+ *  Plays the Monty Hall game N times with the switching strategy
  *  and reports the fraction of games won.
  *
  *  Sample execution:
  *
- * % java MonteHall 10000000
+ * % java MontyHall 10000000
  * Fraction of games won = 0.666586
  *
  *
@@ -15,7 +15,7 @@
  *
  ******************************************************************************/
 
-public class MonteHall {
+public class MontyHall {
 
     public static void main(String[] args) {
         int N = Integer.parseInt(args[0]);  // # trials
