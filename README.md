@@ -16,9 +16,11 @@ The project is strongly inspired by the legendary [Norvig's pytudes](https://git
 ## License
 
 ### What can I do with it?
-Since these documents are licensed under a Creative Commons license, please feel free to reuse and edit these terms to fit your own use. Just make sure to link back so we can spread the word further.
-
+Since these documents are licensed under a GNU General Public License license, please feel free to reuse and edit these terms to fit your own use. Just make sure to link back so we can spread the word further.
 
 If you notice any typos or would like to suggest any changes, please contribute a pull request.
 
-[Creative Commons Attribution-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/).
+[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/).
+
+
+
