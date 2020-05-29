@@ -1,4 +1,4 @@
-# Jupyter
+# Python
 
 ## Shebang
 
